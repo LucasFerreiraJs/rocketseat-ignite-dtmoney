@@ -36,7 +36,7 @@ export const Container = styled.div`
         color: var(--green)
       }
 
-      &.widthdraw{
+      &.withdraw{
         color: var(--red)
       }
     }
