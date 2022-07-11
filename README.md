@@ -4,4 +4,17 @@
     <img alt="dtmoney" title="dtmoney" src="cover.png" />
 </h1>
 
-<h1 style="margin-top: 30px; margin-bottom: 60px; text-align: center; font-weight: bold;">Trilha ReactJs exercício em desenvolvimento 🚀</h1>
+
+### 🎲 Rodando o projeto
+
+```bash
+# Instale as dependências
+$ yarn install
+# ou
+$ npm install
+
+# Execute a aplicação
+$ yarn dev
+# ou
+$ npm run dev
+```
